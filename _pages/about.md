@@ -16,5 +16,6 @@ Channel estimation/tracking in wireless communications
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
-![slides are here](/files/OTFS-Tutorial.pdf)
+
+[slides are here](/files/OTFS-Tutorial.pdf)
 
