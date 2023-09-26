@@ -9,7 +9,7 @@
 locale                   : "Guangzhou, Guangdong, China"
 title                    : "Zijun Gong (巩紫君)"
 title_separator          : "-"
-name                     : &name "Zijun Gong (巩紫君)"
+name                     : &name "巩紫君"
 description              : &description "personal description"
 url                      : https://gongzijun.netlify.app/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zijun Gong (巩紫君)"
+  name             : "Zijun Gong"
   avatar           : "gongzijun.jpg"
   bio              : "Assistant Prof. @ Hong Kong University of Science and Technology (GuangZhou)"
   location         : "Nansha, Guangzhou, China"
   employer         : "HKUST(GZ)"
   googlescholar    : "https://scholar.google.com/citations?user=_euTDKkAAAAJ&hl=zh-CN"
-  email            :
+  email            : "gongzijun@ust.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/GONG-Zijun/gongzijun"
   bitbucket        :
   codepen          :
   dribbble         :
