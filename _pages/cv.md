@@ -11,31 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Communications Engineering, Harbin Institute of Technology, 2009-2013
+* M.S. in Information and Communications Engineering, Harbin Instituite of Technology, 2013-2015
+* Ph.D in Computer Engineering, Memorial University of Newfoundland, St. John's, NL, Canada, 2015-2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022.01-Present: Hong Kong University of Science and Technology (GZ)
+  * Assistant Prof. @ IOT Thrust, Information Hub
+* 2021.05-2021.12: University of Waterloo
+  * Postdoc Fellow
+  * Supervisor: Prof. Sherman Shen
+    
+* 2021.02-2021.25: Memorial University of Newfoundland
+  * Postdoc Fellow
+  * Supervisor: Prof. Cheng Li
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
