@@ -1,5 +1,5 @@
 ---
-title: "Simultaneous Localization and Communications with Massive MIMO-OTFS"
+title: "High-accuracy Positioning Services for High-Speed Vehicles in Wideband mmWave Communications"
 collection: publications
 permalink: /publication/2023-TSP-SLAC
 date: 2023-09-27
